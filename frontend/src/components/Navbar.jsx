@@ -49,7 +49,7 @@ function Navbar() {
               BookStore
             </a>
           </div>
-          <div className="navbar-end">
+          <div className="navbar-end space-x-3">
             <div className="navbar-center hidden lg:flex">
               <ul className="menu menu-horizontal px-1">
                 <li>
@@ -84,7 +84,7 @@ function Navbar() {
               </label>
             </div>
             <div className="">
-              <a className="btn bg-white">login</a>
+              <a className="btn bg-white">Login</a>
             </div>
           </div>
         </div>
