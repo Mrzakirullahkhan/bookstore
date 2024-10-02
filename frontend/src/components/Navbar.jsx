@@ -116,7 +116,7 @@ function Navbar() {
             </label>
             {/* theme controller end */}
             <div className="">
-              <a className="btn bg-white">Login</a>
+              <a className="btn bg-white ">Login</a>
             </div>
           </div>
         </div>
